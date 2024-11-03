@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Amirhossein</h1>
-<h6 align="center",style="text-align:left;">Enthusiastic Android developer with 6+ years of experience in designing and developing high-quality applications. Skilled in building and scaling apps, writing comprehensive tests, and proficient in Git. A strong team player who collaborates effectively in dynamic environments to achieve outstanding results.</h6>
+<h6 align="center">Enthusiastic Android developer with 6+ years of experience in designing and developing high-quality applications. Skilled in building and scaling apps, writing comprehensive tests, and proficient in Git. A strong team player who collaborates effectively in dynamic environments to achieve outstanding results.</h6>
 
 - 💬 Ask me about **Android, Kotlin, Java, Flutter**
 
